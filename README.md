@@ -23,3 +23,6 @@ pip install -r requirements.txt
 Run the Simulation: Execute the main script to start the simulation:
  
 python app.py
+
+#Network URL: http://10.223.208.185:8501
+#External URL: http://34.213.214.55:8501
